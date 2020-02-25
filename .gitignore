@@ -1,0 +1,3 @@
+#ignoring all the files that are listed below:
+*.something
+/data
